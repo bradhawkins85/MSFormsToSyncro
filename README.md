@@ -10,9 +10,11 @@ Step 1) Make a form on MS Forms to collect required information
   - Requesters Email Address
 
 Step 2) Setup a flow similar to below
+
 ![image](https://github.com/bradhawkins85/MSFormsToSyncro/assets/15325110/64b1256a-3c09-45bd-9ed0-aa1b58cc188a)
 
 The Sned Email step contains the following.
+
 ![image](https://github.com/bradhawkins85/MSFormsToSyncro/assets/15325110/47d92cab-7e61-46ec-90a5-eab1434086aa)
 
 The email is sent via SMTP2Go using the requesters email address as the From address, this causes Syncro to log a ticket on behalf of the user.
